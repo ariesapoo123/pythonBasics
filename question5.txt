@@ -1,0 +1,12 @@
+>>> s = input ("s")
+	   
+s Acadview
+>>> course = input ("enter course")
+	   
+enter course Python
+>>> fees = input (" enter fees ")
+	   
+ enter fees 6000
+>>> print (" %s trains course %s with fee %s " % (s,course,fees))
+	   
+  Acadview trains course  Python with fee 6000

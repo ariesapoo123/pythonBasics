@@ -1,0 +1,3 @@
+>>> print ("This is the first question of my python assignment")
+	   
+This is the first question of my python assignment
